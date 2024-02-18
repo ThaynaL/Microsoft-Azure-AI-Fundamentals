@@ -5,16 +5,13 @@ Este arquivo é feito para mostrar o passo a passo para criar modelo de previsã
 Para utilizar o machine learn é preciso ter um workspace no [Microsoft Azure}(https://azure.microsoft.com/pt-br/) entre na sua conta e vá no campo de pesquisa e procure por Azure Machine Learning e crie um workspace o configure (adicionando os nomes, pois nesse caso não vai ser nescesssário mais mudanças além da localização para US) e quando estiver pronto temos que entrar no ML studio encontre a aba "ML automatizado" e crie um "novo trabalho de ML automatizado".
 # Criando um ambiente de aprendizado de maquina para a previsão de aluguel de bicicletas:
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/img1.png" width=""/> 
-<img align="center" src="img" width=""/> 
-<img align="center" src="img" width=""/> 
-<img align="center" src="img" width=""/> 
+<img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img2.png" width=""/> 
 Adicione o tipo de tarefa: Regressão e crie o ativo.
-<img align="center" src="img" width=""/> 
-<img align="center" src="img" width=""/> 
-<img align="center" src="" width=""/> 
-<img align="center" src="" width=""/> 
+<img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img3.png" width=""/> 
+<img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img4.png" width=""/> 
+<img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img5.png" width=""/> 
 Base de dados URL: https://aka.ms/bike-rentals
-<img align="center" src="" width=""/> 
+<img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/.png" width=""/> 
 Selecione a coluna de destino e em seguida clique a Configuração Adicional
 <img align="center" src="" width=""/> 
 Após o envio deve esperar a execução ser concluida
