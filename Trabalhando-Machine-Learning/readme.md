@@ -1,42 +1,43 @@
 # Trabalhando com Machine Learning na Prática
-Este arquivo é feito para mostrar o passo a passo para criar modelo de previsão com as devidas configurações segundo a [documentação da Microsoft](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html) e o .
+Este arquivo é feito para mostrar o passo a passo para criar modelo de previsão com as devidas configurações segundo a [documentação da Microsoft](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html) e o video na [DIO](https://www.dio.me/).
 
 ## Criando modelo
-Para utilizar o machine learn é preciso ter um workspace no [Microsoft Azure}(https://azure.microsoft.com/pt-br/) entre na sua conta e vá no campo de pesquisa e procure por Azure Machine Learning e crie um workspace o configure (adicionando os nomes, pois nesse caso não vai ser nescesssário mais mudanças além da localização para US) e quando estiver pronto temos que entrar no ML studio encontre a aba "ML automatizado" e crie um "novo trabalho de ML automatizado".
+Para utilizar o machine learn é preciso ter um workspace no [Microsoft Azure](https://azure.microsoft.com/pt-br/) entre na sua conta e vá no campo de pesquisa e procure por Azure Machine Learning e crie um workspace o configure (adicionando os nomes, pois nesse caso não vai ser nescesssário mais mudanças além da localização para US) e quando estiver pronto temos que entrar no ML studio encontre a aba "ML automatizado" e crie um "novo trabalho de ML automatizado".
 # Criando um ambiente de aprendizado de maquina para a previsão de aluguel de bicicletas:
+
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/img1.png"/> 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img2.png"/> 
 Adicione o tipo de tarefa: Regressão e crie o ativo.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img3.png"/> 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img4.png"/> 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img5.png"/> 
-A URL da base de dados: https://aka.ms/bike-rentals
+A URL da base de dados: https://aka.ms/bike-rentals .
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img6.png"/> 
-Altere o cabeçalho de coluna para Somente o primeiro arquico tem cabeçalho
+Altere o cabeçalho de coluna para Somente o primeiro arquico tem cabeçalho.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img7.png"/> 
-Continue com a configuração sugerida
+Continue com a configuração sugerida.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img8.png"/>  
-E crie o ativo
+E ativo criado.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img9.png"/> 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img10.png"/> 
-Selecione a coluna de destino e em seguida clique a Configuração Adicional
+Selecione a coluna de destino e em seguida clique a Configuração Adicional.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img11.png"/> 
-Desmarque as opções e selecione os modelos permitidos e salve
+Desmarque as opções e selecione os modelos permitidos a seguir e salve.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img12.png"/> 
-Defina os Limites
+Defina os limites como:
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img13.png"/> 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img14.png"/> 
-Continue com as configurações padrões em computação
+Continue com as configurações padrões em computação.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img15.png"/> 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img16.png"/> 
-E o envie trabalho e espere que a execução seja concluída
+E o envie trabalho e espere que a execução seja concluída.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img17.png"/> 
 O próximo passo é ir para aba modelo e clicar nele. 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img18.png"/> 
 Deve estar criado em seguida vá para ponto de extremidade.
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img19.png"/> 
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img20.png"/> 
-Acesse a aba "Testar"
+Acesse a aba "Testar".
 <img align="center" src="https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/blob/main/%20Trabalhando-Machine-Learning/img/img21.png"/> 
 Para o teste, utilizei o JSON abaixo:
 ˋˋˋ
