@@ -12,3 +12,7 @@ Vá em Face -> Detect faces in an image, marque a alternativa "I acknowledge tha
 ## Analise de imagens
 Documentos/textos:Vá em Optical character recognition -> Extract text from images marque a alternativa e selecione a imagem, em baixo tem como utilizar em um modelo.
 Descrever a imagem:Vá em Image analysis -> Add capitions to images marque a alternativa e selecione a imagem, em baixo tem como utilizar em sua aplicação, qual linhuagem tem suporte e mais informações.
+ 
+Os meus testes com essa ferramenta estão [em inputs]() e os resutados em [output]().
+
+Para mim esse tipo de tecnologia ajudará a progredir em áreas como acesso de deficientes a tecnologia tornado as ferramentas de tecnologia assistiva mais completas e melhores, acho qu tembbém vai ter impacto na área de segurança publica a detecção de rostos pode ajudar a encontrar pessoas foragidas ou desaparecidas.
