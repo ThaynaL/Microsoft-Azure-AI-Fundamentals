@@ -20,6 +20,6 @@ Documentos/textos:Vá em Optical character recognition -> Extract text from imag
 
 Descrever a imagem:Vá em Image analysis -> Add capitions to images marque a alternativa e selecione a imagem, em baixo tem como utilizar em sua aplicação, qual linhuagem tem suporte e mais informações.
  
-Os meus testes com essa ferramenta estão [em inputs]() e os resutados em [output]().
+Os meus testes com essa ferramenta estão em [inputs](https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/tree/main/Reconhecimento-Facial/inputs) e os resutados em [output](https://github.com/ThaynaL/Microsoft-Azure-AI-Fundamentals/tree/main/Reconhecimento-Facial/output).
 
 Para mim esse tipo de tecnologia ajudará a progredir em áreas como acesso de deficientes a tecnologia tornado as ferramentas de tecnologia assistiva mais completas e melhores, acho qu tembbém vai ter impacto na área de segurança publica a detecção de rostos pode ajudar a encontrar pessoas foragidas ou desaparecidas.
